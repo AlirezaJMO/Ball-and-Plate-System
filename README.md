@@ -1,5 +1,7 @@
 # Ball and Plate System
 
+![Top View of the Ball and Plate System](TopView.gif)
+
 ## Introduction
 The **Ball and Plate system** is an extension of the Ball and Beam setup, offering **four degrees of freedom** where a ball can freely roll on a flat surface.  
 This system is **underactuated** and **nonlinear**, affected by friction and resistance to motion. It serves as a **benchmark** for testing various nonlinear control strategies.
