@@ -1,6 +1,6 @@
 # Ball and Plate System
 
-![Top View of the Ball and Plate System](TopView.gif)
+
 
 ## Introduction
 The **Ball and Plate system** is an extension of the Ball and Beam setup, offering **four degrees of freedom** where a ball can freely roll on a flat surface.  
@@ -57,3 +57,6 @@ To further improve system performance:
 - Explore and test **alternative control algorithms** such as:
   - PID control
   - Other advanced, intelligent, or nonlinear control strategies
+
+
+![Top View of the Ball and Plate System](TopView.gif)
